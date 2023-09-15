@@ -2,6 +2,7 @@ Ejercicios de programación
 Sánchez González Ixtli Xochitl 
 
 Calcular el área de un círculo.
+
 import java.util.Scanner;
 public class AreaCirculo1 {
     public static void main(String[] args) {
@@ -17,6 +18,7 @@ public class AreaCirculo1 {
 
 
 Verificar si un número es par o impar.
+
 import java.util.Scanner;
 public class ParOImpar {
     public static void main(String[] args) {
@@ -34,6 +36,7 @@ public class ParOImpar {
 
 
 Encontrar el mínimo de tres números.
+
 import java.util.Scanner;
 public class MinimoDeTresNumeros {
     public static void main(String[] args) {
@@ -52,6 +55,7 @@ public class MinimoDeTresNumeros {
 }
 
 Calcular la suma de los dígitos de un número.
+
 import java.util.Scanner;
 public class SumaDigitos {
     public static void main(String[] args) {
@@ -71,6 +75,7 @@ public class SumaDigitos {
 
 
 Generar una secuencia de Fibonacci.
+
 import java.util.Scanner;
 public class Fibonacci {
     public static void main(String[] args) {
@@ -92,6 +97,7 @@ public class Fibonacci {
 
 
 Verificar si un número es positivo, negativo o cero.
+
 import java.util.Scanner;
 public class PositivoNegativoCero {
     public static void main(String[] args) {
@@ -110,6 +116,7 @@ public class PositivoNegativoCero {
 }
 
 Calcular el promedio de un arreglo de números.
+
 public class PromedioArreglo {
     public static void main(String[] args) {
         int[] numeros = {10, 20, 30, 40, 50};
@@ -125,6 +132,7 @@ public class PromedioArreglo {
 }
 
 Encontrar el máximo común divisor de dos números.
+
 import java.util.Scanner;
 public class MaximoComunDivisor {
     public static void main(String[] args) {
@@ -150,6 +158,7 @@ public class MaximoComunDivisor {
 }
 
 Calcular el número de dígitos en un número entero.
+
 import java.util.Scanner;
 
 public class NumeroDeDigitos {
@@ -165,6 +174,7 @@ public class NumeroDeDigitos {
 }
 
 Verificar si un año es bisiesto o no.
+
 import java.util.Scanner;
 
 public class AnoBisiesto {
